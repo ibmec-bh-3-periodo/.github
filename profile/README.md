@@ -1,4 +1,4 @@
-# Plano de Aula da Disciplina
+# Mural da Disciplina
 
 ## Objetivos
 
@@ -8,12 +8,20 @@
 - Utilizar metologia e práticas de desenvolvimento ágil;
 - Controlar versões e atualização coletiva do código da aplicação de forma automatizada.
 
-## Ementa
+## Repositórios de Aulas
 
-- Desenvolvimento de um site ou sistema responsivo para consumir dados de uma API remota ou através de mocks (objetos que simulam o comportamento de objetos reais).
-- Aplicação do projeto usando conceitos de Design Thinking e metodologias ágeis, como Scrum. Git: definições, conceitos, versionamento de código.
-- Utilização de ferramentas de git (GitHub, Gitlab, Bitbucket ou similar).
-- Elaboração de portfólio.
+- [Aula 0 - Inaugural](https://github.com/ibmec-bh-pcd-1/aula-0-inaugural)
+- [Aula 1 - Introdução HTML / Elementos CSS](https://github.com/ibmec-bh-pcd-1/aula-1-elementos-html-introducao-css)
+- [Aula 2 - SCRUM - Fundamentos](https://github.com/ibmec-bh-pcd-1/aula-2-resumo-scrum)
+- [Aula 3 - CSS Box Model](https://github.com/ibmec-bh-pcd-1/aula-3-box-model-css)
+- [Aula 4 - CSS Flexbox](https://github.com/ibmec-bh-pcd-1/aula-4-css-flexbox)
+- [Aula 5 - HTML Semântico](https://github.com/ibmec-bh-pcd-1/aula-5-html-semantico)
+- [Aula 6 - CSS Responsivo](https://github.com/ibmec-bh-pcd-1/aula-6-css-responsivo)
+- [Aula 7 - Formulários HTML](https://github.com/ibmec-bh-pcd-1/aula-7-formularios-html)
+- [Aula 8 - Introdução JavaScript](https://github.com/ibmec-bh-pcd-1/aula-8-introducao-javascript)
+- [Aula 9 - JS: Arrays, Objetos e Laços de Repetição](https://github.com/ibmec-bh-pcd-1/aula-9-arrays-objetos-for)
+- [Aula 10 - Funções JS](https://github.com/ibmec-bh-pcd-1/aula-10-funcoes-js/)
+
 
 ## Avaliação
 
