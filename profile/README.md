@@ -21,6 +21,7 @@
 - [Aula 8 - Introdução JavaScript](https://github.com/ibmec-bh-pcd-1/aula-8-introducao-javascript)
 - [Aula 9 - JS: Arrays, Objetos e Laços de Repetição](https://github.com/ibmec-bh-pcd-1/aula-9-arrays-objetos-for)
 - [Aula 10 - Funções JS](https://github.com/ibmec-bh-pcd-1/aula-10-funcoes-js/)
+- [Aula 11 - Document Object Model no JS (DOM)](https://github.com/ibmec-bh-pcd-1/aula-10-functions-and-dom)
 
 
 ## Avaliação
