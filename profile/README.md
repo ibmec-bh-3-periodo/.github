@@ -34,3 +34,27 @@ Obs.: este cronograma poderá sofrer alterações.
 
 - [Devdocs.io](https://devdocs.io)
 - [Download Insomnia](https://insomnia.rest)
+
+Aqui está sua mensagem ajustada para incluir a consideração de intercorrências no diário de bordo, mantendo um tom firme, mas equilibrado:  
+
+---
+
+## **📌 Combinados e Avisos Importantes**  
+
+⚠️ **Horário da Aula**  
+A aula começa **pontualmente às 09:50**. Caso chegue atrasado(a), **evite interromper o andamento da aula**. Atrasos superiores a 30 minutos sem justificativa serão considerados **falta**, sem possibilidade de abono.  
+
+⚠️ **Participação e Pontuação**  
+A participação é critério de pontuação no projeto (avaliação individual, mesmo sendo em grupo). Você pode **ganhar pontos** ao:  
+✔️ Chegar no horário  
+✔️ Participar ativamente das discussões e atividades  
+✔️ Usar o celular apenas quando permitido  
+✔️ **Evitar conversas paralelas**  
+
+⚠️ **Diário de Bordo e Avaliação**  
+A docente preenche um **diário de bordo** diariamente para garantir uma avaliação **justa** e **transparente**.  
+📌 A pontuação considera a participação em aula e a qualidade das entregas no projeto.  
+📌 **Intercorrências** (como conversas paralelas excessivas, distrações ou atitudes que impactam o andamento da aula) **são registradas e podem impactar a avaliação**.  
+
+⚠️ **Critério para Avaliação do Projeto**  
+Apenas será avaliado(a) no projeto quem **realizar seus próprios commits**. Os commits são a comprovação da sua participação no trabalho em grupo.  
