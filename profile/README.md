@@ -44,8 +44,6 @@ Obs.: este cronograma poderá sofrer alterações.
 - [Devdocs.io](https://devdocs.io)
 - [Download Insomnia](https://insomnia.rest)
 
-Aqui está sua mensagem ajustada para incluir a consideração de intercorrências no diário de bordo, mantendo um tom firme, mas equilibrado:  
-
 ---
 
 ## **📌 Combinados e Avisos Importantes**  
@@ -66,4 +64,9 @@ A docente preenche um **diário de bordo** diariamente para garantir uma avalia�
 📌 **Intercorrências** (como conversas paralelas excessivas, distrações ou atitudes que impactam o andamento da aula) **são registradas e podem impactar a avaliação**.  
 
 ⚠️ **Critério para Avaliação do Projeto**  
-Apenas será avaliado(a) no projeto quem **realizar seus próprios commits**. Os commits são a comprovação da sua participação no trabalho em grupo.  
+Apenas será avaliado(a) no projeto quem **realizar seus próprios commits**. Os commits são a comprovação da sua participação no trabalho em grupo.
+
+⚠️ **Solicitação de Revisão de Exercíciosa**  
+Apenas exercícios realizados com **Pull Requsest** serão revisados. 
+
+As solicitações de revisão são aceitas, apenas, até em uma semana antes das provas AP1 e AP2.
