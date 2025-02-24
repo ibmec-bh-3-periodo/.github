@@ -19,6 +19,11 @@ Apresentar aos alunos conhecimentos para que as seguintes habilidades possam ser
 - [Aula 5 - ES6](https://github.com/ibmec-bh-3-periodo/pcd2-aula5-es6-js)
 - [Aula 6 - Fundamentos Node.js](https://github.com/ibmec-bh-3-periodo/pcd2-aula6-node-fundamentos)
 
+## Gabaritos de exercícios
+
+- [Jest - Pull Request](https://github.com/ibmec-bh-3-periodo/pcd2-ex1-jest/pull/1)
+- [Typescript e Recursos do ES6 - Pull Request](https://github.com/ibmec-bh-3-periodo/pcd2-ex2-typescript/pull/1)
+
 
 ## Avaliação
 
