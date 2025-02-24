@@ -37,7 +37,7 @@ Apresentar aos alunos conhecimentos para que as seguintes habilidades possam ser
 
 [Link](https://docs.google.com/spreadsheets/d/1mORGaIHI-ap8VJgfxQAoPhXQkQccYxLNiKFaIlF5nFw/edit?usp=sharing)
 
-Obs.: este cronograma poderá sofrer alterações.
+Obs.: este cronograma poderá sofrer alterações. Acompanhe o histórico de alterações em [avisos gerais](https://github.com/ibmec-bh-3-periodo/.github/discussions/2).
 
 ## Links úteis
 
