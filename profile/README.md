@@ -67,6 +67,4 @@ A docente preenche um **diário de bordo** diariamente para garantir uma avalia�
 Apenas será avaliado(a) no projeto quem **realizar seus próprios commits**. Os commits são a comprovação da sua participação no trabalho em grupo.
 
 ⚠️ **Solicitação de Revisão de Exercíciosa**  
-Apenas exercícios realizados com **Pull Requsest** serão revisados. 
-
-As solicitações de revisão são aceitas, apenas, até em uma semana antes das provas AP1 e AP2.
+Apenas exercícios realizados com **Pull Requsest** serão revisados. As solicitações de revisão são aceitas em até, **uma semana** antes das provas AP1 e AP2.
