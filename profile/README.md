@@ -22,7 +22,9 @@ Apresentar aos alunos conhecimentos para que as seguintes habilidades possam ser
 ## Gabaritos de exercícios
 
 - [Jest - Pull Request](https://github.com/ibmec-bh-3-periodo/pcd2-ex1-jest/pull/1)
-- [Typescript e Recursos do ES6 - Pull Request](https://github.com/ibmec-bh-3-periodo/pcd2-ex2-typescript/pull/1)
+- Typescript e Recursos do ES6
+  - [Pull Request](https://github.com/ibmec-bh-3-periodo/pcd2-ex2-typescript/pull/1)
+  - [Vídeo (1 a 10)](https://youtu.be/4f6N1Ui3U3k)
 
 
 ## Avaliação
