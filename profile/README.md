@@ -34,7 +34,7 @@ Apresentar aos alunos conhecimentos para que as seguintes habilidades possam ser
 |-----------------------|------|-----------------------------------------------------------------------|
 | Prova – AP1           | 40%  | Avaliação Parcial 1, individual e sem consulta.                       |
 | Prova – AP2           | 40%  | Avaliação Parcial 2, individual e sem consulta. Metade da pontuação será direcionada ao projeto. |
-| Avaliação Contínua - AC | 20%  | Avaliação do trabalho extensionista.                                  |
+| Avaliação Contínua - AC | 20%  | Avaliação do trabalho extensionista em conjunto com exercícios em sala (10% projeto / 10% exercícios)                                  |
 
 ## Cronograma
 
