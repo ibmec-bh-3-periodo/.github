@@ -18,6 +18,7 @@ Apresentar aos alunos conhecimentos para que as seguintes habilidades possam ser
 - [Aulas 3 e 4 - TypeScript](https://github.com/ibmec-bh-3-periodo/pcd2-aula3-aula4-introducao-typescript)
 - [Aula 5 - ES6](https://github.com/ibmec-bh-3-periodo/pcd2-aula5-es6-js)
 - [Aula 6 - Fundamentos Node.js](https://github.com/ibmec-bh-3-periodo/pcd2-aula6-node-fundamentos)
+- [Aula 7 - APIs no Node.js](https://github.com/ibmec-bh-3-periodo/pcd2-aula7-api-node)
 
 ## Gabaritos de exercícios
 
